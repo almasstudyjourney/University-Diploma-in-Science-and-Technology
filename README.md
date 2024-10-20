@@ -9,6 +9,45 @@ Ce repository retrace mon parcours académique de S1 à S6. J'ai obtenu un Dipl�
 - **Université** : [Nom de l'Université]
 - **Lieu** : [Ville, Pays]
 - **Lien** : [Lien vers le site de l'université]
+## Contenu 
+
+## Tableau des Modules (S1 à S4)
+
+# Parcours DEUST - MIP
+
+## Tableau des Modules (S1 à S4)
+
+| **Semestre** | **Code du module** | **Intitulé du module** |
+|--------------|--------------------|------------------------|
+| **S1**       | M01                | Thermodynamique         |
+|              | M02                | Mécanique du point et Optique géométrique |
+|              | M03                | Analyse 1 : Fonction d’une variable réelle |
+|              | M04                | Algèbre 1 : Polynômes et espaces vectoriels |
+|              | M05                | Algorithmique et Programmation 1 |
+|              | M06                | TEC1                   |
+|--------------|--------------------|------------------------|
+|**S2**        | M08                | Électricité             |
+|              | M07                | Circuits électriques et électroniques |
+|              | M09                | Analyse 2 : Calcul intégral et équations différentielles |
+|              | M10                | Algèbre 2 : Réduction des endomorphismes et formes quadratiques |
+|              | M11                | Structure de la matière |
+|              | M12                | TEC2                   |
+|--------------|--------------------|------------------------|
+|**S3**        | M13                | Mécanique des Solides   |
+|              | M14                | Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples |
+|              | M15                | Statistique descriptive/probabilités |
+|              | M16                | Algorithmique et Programmation 2 |
+|              | M17                | Réactivité chimique     |
+|              | M18                | TEC3                   |
+|--------------|--------------------|------------------------|
+| **S4**       | M19                | Électromagnétisme       |
+|              | M20                | Mécanique quantique et Relativité |
+|              | M21                | Analyse 4 : Séries de fonctions et calcul des résidus |
+|              | M22                | Structure de données en C |
+|              | M23                | Analyse numérique 1     |
+|              | M24                | Systèmes d’Information et Base de données |
+|--------------|--------------------|-------------------------------------------|
+
 
 ## Structure
 Le repository est organisé par semestre, de S1 à S6, avec des sous-sections pour chaque phase :
