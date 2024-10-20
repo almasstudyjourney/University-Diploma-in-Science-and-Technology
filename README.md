@@ -25,8 +25,8 @@ Ce repository retrace mon parcours académique de S1 à S6. J'ai obtenu un Dipl�
 |              | M04                | Algèbre 1 : Polynômes et espaces vectoriels |
 |              | M05                | Algorithmique et Programmation 1 |
 |              | M06                | TEC1                   |
-|**S2**        | M08                | Électricité             |
-|              | M07                | Circuits électriques et électroniques |
+|**S2**        | M07                | Circuits électriques et électroniques |
+|              | M08                | Électricité             |
 |              | M09                | Analyse 2 : Calcul intégral et équations différentielles |
 |              | M10                | Algèbre 2 : Réduction des endomorphismes et formes quadratiques |
 |              | M11                | Structure de la matière |
