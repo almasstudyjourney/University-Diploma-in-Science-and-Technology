@@ -11,7 +11,14 @@ Bienvenue dans mon répertoire GitHub ! Ici, je partage le chemin de mon parcour
 ## Introduction de la formation et objectifs
 ![image](https://github.com/almasstudyjourney/University-Diploma-in-Science-and-Technology/blob/main/1_page-0001%20(1).jpg)
 
-## Méthodes d'Enseignement 
+## Méthode d'Enseignement 
+* **Cours magistraux (CM)** : Les bases théoriques en mathématiques, informatique, et physique, fournissant une fondation solide pour des disciplines avancées.
+
+* **Travaux dirigés (TD)** : Résolution d'exercices pratiques en petits groupes, facilitant la compréhension des concepts théoriques à travers l'application pratique.
+
+* **Travaux pratiques (TP)** : Séances en laboratoire pour appliquer les concepts informatiques et scientifiques à des expériences concrètes, incluant la programmation et l’analyse de données.
+
+* **Projets de fin de semestre** : Réalisation de projets académiques pour mettre en pratique les compétences acquises dans chaque semestre, souvent en groupe pour favoriser le travail collaboratif.
 
 
 ## Programme
@@ -41,10 +48,11 @@ Bienvenue dans mon répertoire GitHub ! Ici, je partage le chemin de mon parcour
 |              | M22                | Structure de données en C |
 |              | M23                | Analyse numérique 1     |
 |              | M24                | Systèmes d’Information et Base de données |
+## Lien
+Pour plus de détails sur la formation, vous pouvez [télécharger la brochure complète du DEUST](https://fsth.ma/upload/docs/22/Depliant-MIP.pdf).
+
 
 # Structure du Repository - DEUST
-
-Voici la structure de mon repository pour le Diplôme des Études Universitaires en Science et Techniques (DEUST) :
 
 ```plaintext
 DEUST/
