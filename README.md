@@ -49,7 +49,7 @@ Bienvenue dans mon répertoire GitHub ! Ici, je partage le chemin de mon parcour
 |              | M23                | Analyse numérique 1     |
 |              | M24                | Systèmes d’Information et Base de données |
 ## Lien
-Pour plus de détails sur la formation, vous pouvez [télécharger la brochure complète du DEUST](https://fsth.ma/upload/docs/22/Depliant-MIP.pdf).
+Pour plus de détails sur la formation, vous pouvez [télécharger la brochure complète ici](https://fsth.ma/upload/docs/22/Depliant-MIP.pdf).
 
 
 # Structure du Repository - DEUST
