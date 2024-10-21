@@ -12,7 +12,7 @@ Bienvenue dans mon répertoire GitHub ! Ici, je partage le chemin de mon parcour
 ![image](https://github.com/almasstudyjourney/University-Diploma-in-Science-and-Technology/blob/main/1_page-0001%20(1).jpg)
 
 ## Méthode d'Enseignement 
-* **Cours magistraux (CM)** : Les bases théoriques en mathématiques, informatique, et physique, fournissant une fondation solide pour des disciplines avancées.
+* **Cours magistraux (CM)** : Des sessions théoriques qui couvrent les bases théoriques en mathématiques, informatique, et physique, fournissant une fondation solide pour des disciplines avancées.
 
 * **Travaux dirigés (TD)** : Résolution d'exercices pratiques en petits groupes, facilitant la compréhension des concepts théoriques à travers l'application pratique.
 
